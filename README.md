@@ -1,4 +1,4 @@
-<b style="color: red;">CURL Codeigniter Library</b>
+<h1><b style="color: red;">CURL Codeigniter Library</b></h1>
 
 CURL Codeigniter Library by AliZufan
 
